@@ -1,6 +1,5 @@
 ﻿using TechnicalTestDotNet.Core.DTOs;
 using TechnicalTestDotNet.Core.DTOs.Students;
-using TechnicalTestDotNet.Core.DTOs.Teachers;
 
 namespace TechnicalTestDotNet.Core.Interfaces.Students
 {

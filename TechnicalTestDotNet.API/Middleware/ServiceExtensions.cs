@@ -2,7 +2,6 @@
 using TechnicalTestDotNet.Core.Interfaces.Qualifications;
 using TechnicalTestDotNet.Core.Interfaces.Students;
 using TechnicalTestDotNet.Core.Interfaces.Teachers;
-using TechnicalTestDotNet.DataAccess.DataBase.Models;
 using TechnicalTestDotNet.DataAccess.Services.Repositories.Courses;
 using TechnicalTestDotNet.DataAccess.Services.Repositories.Qualifications;
 using TechnicalTestDotNet.DataAccess.Services.Repositories.Students;

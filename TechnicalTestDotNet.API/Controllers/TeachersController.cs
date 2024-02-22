@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Mvc;
 using TechnicalTestDotNet.Core.DTOs;
 using TechnicalTestDotNet.Core.DTOs.Teachers;
 using TechnicalTestDotNet.Core.Interfaces.Teachers;

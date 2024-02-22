@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using TechnicalTestDotNet.Core.DTOs;
 using TechnicalTestDotNet.Core.DTOs.Teachers;
-using TechnicalTestDotNet.Core.Enums;
 using TechnicalTestDotNet.Core.Extensions;
 using TechnicalTestDotNet.Core.Interfaces.Teachers;
 using TechnicalTestDotNet.DataAccess.DataBase;
